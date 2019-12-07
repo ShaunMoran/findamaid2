@@ -1,0 +1,44 @@
+body {
+    background-image: url("../img//backdrop1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+   }
+   
+   .fam {
+     position: fixed;
+     top: 0px;
+     left: 0px;
+     height: 400px;
+     width: 400px;
+     padding: 0px;
+     border: 0px;
+     margin: 0px;
+     color: rgb(0, 0, 0);
+     font-size: 200%;
+     font-family: 'Courgette', cursive;
+   }
+     
+    .links {
+       position: fixed;
+       left: 130px;
+       top: 120px;
+       text-decoration: none;
+       font-family: 'Courgette', cursive;
+       font-size: 25px;
+       color: rgb(24, 0, 161);
+       
+    }
+   
+   .topnav {
+     position: fixed;
+     right: 275px;
+     top: 22px;
+     
+   }
+   
+   .signin {
+     position: fixed;
+     right: 150px;
+     color: black;
+   }
